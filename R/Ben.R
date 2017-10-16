@@ -1,17 +1,16 @@
 #' Ben's Love
 #'
-#' This function helps to create a heart for your girlfriend
-#' your names inside the heart when your girl is mad
+#' This function helps to create a heart for your girlfriend when your girl is mad.
 #'
-#' Ben had such a fight with Mei and Ben is almost done.
-#' This is Ben's story, and the same happens to you when you're
+#' Ben had such a fight with Mei and Ben was almost done.
+#' This is Ben's story, and the same must be happened to you when you're
 #' bored enough to come & check this package. Ben created this
-#' 'heart' function to fight for Mei and he genealized the names
-#' for users to define by themselves to save your life.
+#' 'heart' function to fight for Mei and he has genealized the names
+#' for users to define by themselves to save your happy life.
 #'
 #' @export
 #' @param name1 Your name
-#' @param max_col Your girlfriend's name
+#' @param name2 Your girlfriend's name
 #' @return A giant heart with you and your girl's name inside
 #' @examples
 #' secret_gift()
