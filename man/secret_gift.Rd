@@ -9,21 +9,20 @@ secret_gift(name1 = "Ben", name2 = "Mei")
 \arguments{
 \item{name1}{Your name}
 
-\item{max_col}{Your girlfriend's name}
+\item{name2}{Your girlfriend's name}
 }
 \value{
 A giant heart with you and your girl's name inside
 }
 \description{
-This function helps to create a heart for your girlfriend
-your names inside the heart when your girl is mad
+This function helps to create a heart for your girlfriend when your girl is mad.
 }
 \details{
-Ben had such a fight with Mei and Ben is almost done.
-This is Ben's story, and the same happens to you when you're
+Ben had such a fight with Mei and Ben was almost done.
+This is Ben's story, and the same must be happened to you when you're
 bored enough to come & check this package. Ben created this
-'heart' function to fight for Mei and he genealized the names
-for users to define by themselves to save your life.
+'heart' function to fight for Mei and he has genealized the names
+for users to define by themselves to save your happy life.
 }
 \examples{
 secret_gift()
